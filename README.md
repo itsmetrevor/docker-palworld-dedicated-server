@@ -30,6 +30,5 @@ With a lot of learning and referencing from @jammsen's container:
 
 I do NOT advise enabling RCON or forwarding it's ports unless you have a need to access Palworld admin commands while away from the game! RCON enabled without a secure password is a severe security vulnerability.
 
-Instead, I suggest simply making use of the in game slash commands. You can find all the supported commands here:
-
+Instead, I suggest simply making use of the in game slash commands. You can find all the supported commands here:  
 [https://tech.palworldgame.com/server-commands](https://tech.palworldgame.com/server-commands)
