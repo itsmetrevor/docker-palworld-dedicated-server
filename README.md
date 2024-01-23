@@ -1,10 +1,10 @@
 # Palworld Dedicated Server Container
 
-A Docker container for the online survival game Palworld, designed to be as simple as I can make it.
+Built on the cm2network/steamcmd container:  
+([https://hub.docker.com/r/cm2network/steamcmd](https://hub.docker.com/r/cm2network/steamcmd)).
 
-Built on the cm2network/steamcmd container. ([https://hub.docker.com/r/cm2network/steamcmd](https://hub.docker.com/r/cm2network/steamcmd)).
-
-With a lot of learning and referencing from @jammsen's container. ([https://github.com/jammsen/docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server))
+With a lot of learning and referencing from @jammsen's container:  
+([https://github.com/jammsen/docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server))
 
 
 
