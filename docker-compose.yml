@@ -19,5 +19,8 @@ services:
       - TIMEZONE=America/New_York
       - COMMUNITY_SERVER=false
       - MULTITHREAD_ENABLED=true
+      - BACKUP_INTERVAL=12 # hours, set to 0 to disable
+      - BACKUPS_TO_KEEP=10 # oldest deleted first, set to 0 for unlimited
     volumes:
       - ./palworld:/palworld
+    command: ./docker-script.sh
