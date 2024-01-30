@@ -16,5 +16,6 @@ EXPOSE 8211/udp
 EXPOSE 25575/tcp
 
 ADD --chmod=777 serverstartup.sh /serverstartup.sh
+ADD --chmod=777 serverbackup.sh /serverbackup.sh
 
 CMD ["/serverstartup.sh"]
