@@ -1,7 +1,7 @@
 FROM cm2network/steamcmd
 
-LABEL org.opencontainers.image.authors="Trevor Huffsmith"
-LABEL org.opencontainers.image.source="https://github.com/itsmetrevor/docker-palworld-dedicated-server"
+LABEL authors="Trevor Huffsmith"
+LABEL source="https://github.com/itsmetrevor/docker-palworld-dedicated-server"
 
 ENV TIMEZONE=America/New_York \
     DEBIAN_FRONTEND=noninteractive \
